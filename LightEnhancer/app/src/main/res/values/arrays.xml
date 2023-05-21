@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="models">
+        <item>128x128</item>
+        <item>256x256</item>
+        <item>512x512</item>
+    </string-array>
+</resources>
