@@ -10,3 +10,9 @@ This project includes:
 
 ![Android App Class Diagram](images/app_classdiagram.png)
 ![C++ Library Class Diagram](images/lib_classdiagram.png)
+
+
+### Example enhancements
+
+![Example 1](images/example1.png)
+![Example 2](images/example2.png)
